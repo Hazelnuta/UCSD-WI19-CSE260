@@ -1,3 +1,6 @@
 [submodule "pa1-pa1-tchien-hlwu"]
 	path = pa1-pa1-tchien-hlwu
 	url = https://github.com/cse260-wi19/pa1-pa1-tchien-hlwu
+[submodule "pa2-pa2-hlwu"]
+	path = pa2-pa2-hlwu
+	url = https://github.com/cse260-wi19/pa2-pa2-hlwu
